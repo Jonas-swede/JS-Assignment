@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(19 ,50px);
+}
+.gameSquare{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+}
